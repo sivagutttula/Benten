@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 class="h1">Ben Ten</h1>
+    <p class="kk">POPULAR HEROS</p>
+    <div class="dd">
+        <img src="11.jpg" class="ss">
+        <img src="22.jpg" class="ss">
+        <img src="33.png" class="ss">
+        <img src="44.jpg" class="ss">
+        <img src="55.jpg" class="ss">
+    </div>
+    <p class="gg">POPULAR VILLAINS</p>
+    <div class="jh">
+        <img src="66.jpg">
+        <img src="77.jpg">
+        <img src="88.jpg">
+        <img src="99.jpg">
+        <img src="1010.jpg">
+        <img src="1111.jpg">
+    </div>
+</body>
+
+</html>
